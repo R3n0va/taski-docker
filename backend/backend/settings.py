@@ -11,6 +11,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['84.252.140.45', '127.0.0.1', 'localhost', 'renovaproject.ddns.net']
 
 
+
 # Application definition
 
 INSTALLED_APPS = [
